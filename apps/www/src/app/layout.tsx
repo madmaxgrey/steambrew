@@ -1,5 +1,5 @@
 const description =
-	"Apply themes/skins/customization the new version of the Steam® Client. Steam Client Homebrew is a community focused on extending Steam's base functionality. We've developed Millennium, commonly known as Millennium for Steam, that lets you add new features to your Steam Client.";
+	"Apply themes and plugins to the new version of the Steam® Client. Steam Client Homebrew is a community focused on extending Steam’s base functionality. We’ve developed Millennium, commonly known as Millennium for Steam, which allows you to add new features to your Steam Client.";
 
 export const metadata = {
 	metadataBase: new URL('http://localhost:3000'),
