@@ -41,12 +41,10 @@ No, Millennium does not store or log any form of user data and ensures that appr
 
 In your Steam folder:
 
-- `user32.dll`
-- `python311.dll`
-- `millennium.dll`
-- `ext/` - Millennium Internal Data
-- `plugins/` - User Plugins
-- `steamui/skins/` - User Themes
+- `wsock32.dll`
+- `millennium/` - Millennium Internal Data
+- `millennium/plugins/` - User Plugins
+- `millennium/themes/` - User Themes
 
 #### Linux
 
