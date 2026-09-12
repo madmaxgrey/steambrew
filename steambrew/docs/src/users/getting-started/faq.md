@@ -7,9 +7,11 @@ description: Questions asked frequently.
 
 ::: details Antivirus detections?
 
-Due to the nature of how Millennium modifies Steam's interface, some antivirus programs may mistakenly flag it as suspicious. To significantly reduce these false positives, Millennium's releases are now officially code-signed on Windows with a certificate provided by the SignPath Foundation.
+Although Millennium is open sourced, and cryptographically signed by [SignPath](https://signpath.org/projects?search=millennium); some antivirus solutions may mistakenly identify it as a virus. 
 
-If any alerts do appear, they are almost certainly false positives. You can always verify the software's safety by running the files through VirusTotal. For complete peace of mind, we encourage you to compile, test, and audit Millennium's source code on GitHub. If you have further questions, you can always reach out to us in [Discord](https://steambrew.app/discord).
+These are [false positives](https://www.huntress.com/cybersecurity-101/topic/false-positive-viruses), often stemming from unrecognized new releases of Millennium that have yet to be heuristically *stamped as safe* by the vendor. 
+
+It's important to approach everything you read online with caution, including this information. We encourage you to verify it yourself—compile, test, and audit Millennium's source code, and you'll find that it behaves exactly as described.
 
 Remember, the best antivirus is a smart end-user!
 
